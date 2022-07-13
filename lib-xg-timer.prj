@@ -1,0 +1,13 @@
+(vlisp-project-list
+  :name
+  lib-xg-timer
+  :own-list
+  ("lib-xg-timer")
+  :fas-directory
+  "D:\\lisp-fas"
+  :tmp-directory
+  "D:\\lisp-fas\\temp"
+  :project-keys
+  (:build (:optimize :localize :link) :merged t :safe-mode t :msglevel 1)
+  :context-id
+  :autolisp)
