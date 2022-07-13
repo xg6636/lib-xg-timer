@@ -1,8 +1,9 @@
-;;;; copyright (c) 2021 - 2022 Jack Hsu <120522448@qq.com>
 ;;;; ¼ÆÊ±Æ÷º¯Êý
+;;;; 
 ;;;; created at 2021/11/15 16:46:31
-;;;; last modified at 2022/03/02 19:35:40
-
+;;;; last modified at 2022/07/13 20:12:03
+;;;; 
+;;;; copyright (c) 2021 - 2022 Jack Hsu <120522448@qq.com>
 
 
 (defun xg/timer-record () 
